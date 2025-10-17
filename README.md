@@ -62,7 +62,7 @@ Bu veri seti, kurgusal bir şirketin CRM (Müşteri İlişkileri Yönetimi) sist
 
 📘 **ER Diyagramı:**
 <div align="center">
-  <img src="https://github.com/can-uncu/OtelProje/blob/master/er_diagram.jpg" alt="ER Diagram" width="1000"/>
+  <img src="https://github.com/can-uncu/CRM_Data_Analysis_for_Sales/blob/main/erd_diagram.jpg" alt="ER Diagram" width="1000"/>
 </div>
 
 ---
